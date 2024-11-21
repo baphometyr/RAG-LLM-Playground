@@ -1,0 +1,8 @@
+altair
+chromadb==0.5.4
+pandas
+streamlit==1.40.0
+langchain_community
+langchain-huggingface
+llama-cpp-python
+sentence_transformers
